@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ngokevin/aframe-react-boilerplate.git"
+    "url": "git+https://github.com/sdras/react-aframe-demo1.git"
   },
   "keywords": [
     "aframe",
@@ -32,9 +32,9 @@
   "author": "Sarah Drasner <sarah.drasner@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ngokevin/aframe-react-boilerplate/issues"
+    "url": "https://github.com/sdras/react-aframe-demo1/issues"
   },
-  "homepage": "https://github.com/ngokevin/aframe-react-boilerplate#readme",
+  "homepage": "https://github.com/sdras/react-aframe-demo1#readme",
   "devDependencies": {
     "babel": "^6.3.13",
     "babel-core": "^6.3.15",
