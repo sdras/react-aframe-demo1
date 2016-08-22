@@ -2,6 +2,8 @@
 
 My first attempt playing around with A-Frame and React, this is epically fun. Just a little demo project, nothing special.
 
+[See the demo live here](https://sdras.github.io/react-aframe-demo1/)
+
 ![](https://s3-us-west-2.amazonaws.com/s.cdpn.io/28963/react-aframe.jpg)
 
 ### To see it in action
